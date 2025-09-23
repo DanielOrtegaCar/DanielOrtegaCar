@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daniel Ortega - Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background: #2c3e50;
+      color: #fff;
+      padding: 2rem 0;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+    }
+    header p {
+      margin: 0.5rem 0 0;
+      font-size: 1.2rem;
+    }
+    main {
+      max-width: 900px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+    section {
+      margin-bottom: 2rem;
+    }
+    h2 {
+      color: #2c3e50;
+      border-bottom: 2px solid #2c3e50;
+      padding-bottom: 0.3rem;
+    }
+    ul {
+      list-style-type: disc;
+      padding-left: 1.5rem;
+    }
+    .card {
+      background: #fff;
+      padding: 1rem;
+      margin: 1rem 0;
+      border-radius: 10px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    a {
+      color: #2980b9;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .job-title {
+      font-weight: bold;
+    }
+    .job-company {
+      font-style: italic;
+      color: #555;
+    }
+    .job-dates {
+      color: #777;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Daniel Ortega</h1>
+  <p>Ingeniero Informático | Especialista en Datos Geoespaciales y AI</p>
+</header>
+
+<main>
+
+  <!-- About Me -->
+  <section>
+    <h2>About Me</h2>
+    <ul>
+      <li>Procesamiento y análisis de datos espaciales y no espaciales con Python, QGIS y ArcGIS.</li>
+      <li>Web scraping y procesamiento de texto, incluyendo extracción de palabras clave en grandes volúmenes de información.</li>
+      <li>OCR y visión computacional aplicados al reconocimiento automático de documentos e imágenes.</li>
+      <li>Procesamiento de datos LiDAR y generación de modelos digitales de terreno.</li>
+      <li>Machine Learning y Deep Learning para detección de anomalías, segmentación y clasificación en imágenes satelitales y aéreas.</li>
+      <li>Arquitecturas cloud y serverless: Vertex AI, Cloud Functions y Artifact Registry.</li>
+    </ul>
+  </section>
+
+  <!-- Achievements -->
+  <section>
+    <h2>Achievements</h2>
+    <ul>
+      <li><a href="https://www.iing.cl/wp-content/uploads/2022/10/Premiados-ROA-todos-al-2022.xlsx-copia.pdf">Premio Roberto Ovalle Aguirre, Instituto de Ingenieros de Chile</a></li>
+    </ul>
+  </section>
+
+  <!-- Certifications -->
+  <section>
+    <h2>Certifications</h2>
+    <ul>
+      <li><a href="https://www.credly.com/badges/d03f948e-428f-4d34-9075-04724edd71b7/public_url">Cloud Digital Leader Certification (GCP)</a></li>
+      <li><a href="https://www.credly.com/badges/c770bf0b-d51a-4ae5-9f92-065fba1403fd/public_url">Professional Machine Learning Engineer Certification (GCP)</a></li>
+      <li><a href="https://www.coursera.org/account/accomplishments/certificate/ZW3KNJPRQUEK">Spatial Data Science and Applications</a></li>
+      <li><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/PGZEM3769UX3">DeepLearning.AI TensorFlow Developer</a></li>
+      <li><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/UXERM42Q2VX9">Architecting with Google Kubernetes Engine</a></li>
+      <li><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/69WGKS9CP2AX">SRE and DevOps Engineer with Google Cloud</a></li>
+      <li><a href="https://www.cloudskillsboost.google/public_profiles/7d65c009-c16c-41da-abb9-6385d88311da/badges/3137317">Big Data and Machine Learning Fundamentals</a></li>
+      <li><a href="https://www.udemy.com/certificate/UC-819df40f-725d-4b29-a711-b56fc78e2144/">High-Performance Computing with Python 3.x</a></li>
+    </ul>
+  </section>
+
+  <!-- Education -->
+  <section>
+    <h2>Education</h2>
+    <ul>
+      <li><a href="https://drive.google.com/file/d/1CXcYmsK7bv266SqPwp0-T3aYUqolE2XW/view?usp=sharing">MSc. Computer Science – Universidad de Concepción</a> (March 2019 – March 2021)</li>
+      <li><a href="https://drive.google.com/file/d/1quSYldD_s-UdmV3hlkfWuf_EfBJ43VxW/view?usp=sharing">Computer Engineering – Universidad de Concepción</a> (March 2014 – October 2019)</li>
+    </ul>
+  </section>
+
+  <!-- Projects -->
+  <section>
+    <h2>Projects</h2>
+    <div class="card">
+      <ul>
+        <li><strong>Volumetric Estimation from Drone Images:</strong> Corrected image brightness and developed segmentation algorithms, recovering 1%-3% of lost harvest volume (~$7M savings).</li>
+        <li><strong>Data Ingestion Pipelines:</strong> Automated pipelines to extract spatial and tabular data using Python and Postman.</li>
+        <li><strong>PDF Reporting:</strong> Automated reporting by connecting to various APIs for clear stakeholder reports.</li>
+        <li><strong>Web Scraping:</strong> Built pipelines to collect immigration-related news and generate structured datasets.</li>
+        <li><strong>Geoprocessing Automation:</strong> Automated DEM correction, image compression, and optimized geospatial data loading.</li>
+        <li><strong>Hyperspectral/Multispectral Analysis:</strong> Applied supervised classification and dimensionality reduction algorithms.</li>
+        <li><strong>LiDAR Data Analysis:</strong> Developed metrics for understory vegetation using point cloud data.</li>
+        <li><strong>Cloud-Based Algorithm Execution:</strong> Packaged algorithms for Kubernetes execution using Argo/CLI.</li>
+        <li><strong>Prediction Pipelines:</strong> Developed automatic prediction pipelines triggered by events.</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- Professional Experience -->
+  <section>
+    <h2>Professional Experience</h2>
+
+    <div class="card">
+      <p class="job-title">R&D Engineer</p>
+      <p class="job-company">Forestal Arauco</p>
+      <p class="job-dates">February 2021 – Present</p>
+      <ul>
+        <li>Led multiple development projects using GCP, BigQuery, Python, PyTorch, Docker, and Vertex AI.</li>
+        <li>Improved internal processes with 5%-15% performance gains through data-driven optimization.</li>
+        <li>Engineered and deployed cloud solutions reducing processing time by 80% and increasing throughput by 70%.</li>
+        <li>Customized open-source software, achieving significant cost savings.</li>
+        <li>Automated workflows, cutting manual processing times by 50% and integrating systems via APIs.</li>
+        <li>Led innovative projects on unstructured data, generating actionable insights.</li>
+        <li>Collaborated with internal/external teams to create valuable products.</li>
+        <li>Defined system requirements, ensuring alignment between stakeholders and developers.</li>
+        <li>Maintained productive systems with data processing pipelines.</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <p class="job-title">R&D Consultant</p>
+      <p class="job-company">Forestal Arauco</p>
+      <p class="job-dates">October 2019 – February 2021</p>
+      <ul>
+        <li>Developed algorithms from academic research using Python and deep learning frameworks.</li>
+        <li>Created automated reporting systems and generated polygons from satellite imagery.</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <p class="job-title">Consultant</p>
+      <p class="job-company">Fernando Severino</p>
+      <p class="job-dates">October 2019 – January 2020</p>
+      <ul>
+        <li>Developed a web scraping workflow to collect Latin American immigration news and generate PDF reports.</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <p class="job-title">Internship</p>
+      <p class="job-company">Sistemas Modulares de Computación SpA</p>
+      <p class="job-dates">December 2018 – February 2019</p>
+      <ul>
+        <li>Designed and implemented a shift management system using C#, MVC Framework, and SQL Server.</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <p class="job-title">Teaching Assistant - Data Science</p>
+      <p class="job-company">Universidad de Concepción</p>
+      <p class="job-dates">July 2019 – December 2019</p>
+      <ul>
+        <li>Assisted teaching data science concepts, supporting students with Python, machine learning, and data analysis exercises.</li>
+      </ul>
+    </div>
+
+  </section>
+
+  <!-- Contact -->
+  <section>
+    <h2>Contact</h2>
+    <ul>
+      <li>GitHub: <a href="https://github.com/tuusuario">@tuusuario</a></li>
+      <li>LinkedIn: <a href="https://www.linkedin.com/in/tuusuario">Tu Nombre</a></li>
+      <li>Email: tunombre@correo.com</li>
+    </ul>
+  </section>
+
+</main>
+
+</body>
+</html>
