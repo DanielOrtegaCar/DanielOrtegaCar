@@ -23,9 +23,9 @@ Me interesa especialmente el cruce entre **informática, ciencia de datos e inte
 
 ## 📫 Contacto
 
-- GitHub: [@tuusuario](https://github.com/DanielOrtegaCarca)  
-- LinkedIn: [Tu Nombre](https://www.linkedin.com/in/daniel-antonio-ortega-carcamo)  
-- Email: tunombre@correo.com  
+- GitHub: [@DanielOrtegaCar](https://github.com/DanielOrtegaCarca)  
+- LinkedIn: [Daniel Ortega Carcamo](https://www.linkedin.com/in/daniel-antonio-ortega-carcamo)  
+- Email: danielortegacarcamo@gmail.com  
 
 ---
 <!--
