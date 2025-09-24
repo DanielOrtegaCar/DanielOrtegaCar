@@ -39,46 +39,29 @@ I am a **computer engineer specialized in geospatial data, AI, and cloud solutio
 ## 📜 Certifications  
 
 - ☁️ **Google Cloud Digital Leader**  
-  <a href="https://www.credly.com/badges/d03f948e-428f-4d34-9075-04724edd71b7/public_url" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/2d17838c-9e74-4f11-92e7-d64b3f17cd5d/image.png" alt="Google Cloud Digital Leader" width="100"/>
-  </a>  
+  ![Google Cloud Digital Leader Badge](https://img.shields.io/badge/Certification-GCP%20Digital%20Leader-blue?style=for-the-badge&logo=google-cloud)  
 
 - 🤖 **Google Professional Machine Learning Engineer**  
-  <a href="https://www.credly.com/badges/c770bf0b-d51a-4ae5-9f92-065fba1403fd/public_url" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/8b703fae-f13e-4f84-8cfa-9387f2145a43/image.png" alt="Google Professional Machine Learning Engineer" width="100"/>
-  </a>  
+  ![Professional ML Engineer Badge](https://img.shields.io/badge/Certification-GCP%20ML%20Engineer-blue?style=for-the-badge&logo=google-cloud)  
 
 - 🌐 **Architecting with Google Kubernetes Engine**  
-  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/UXERM42Q2VX9" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/8e756718-81f6-4f17-84a6-2c1d53b7a3fa/image.png" alt="Architecting with Google Kubernetes Engine" width="100"/>
-  </a>  
+  ![GKE Architect Badge](https://img.shields.io/badge/Certification-GKE%20Architect-blue?style=for-the-badge&logo=google-cloud)  
 
 - 🛠️ **SRE and DevOps Engineer with Google Cloud**  
-  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/69WGKS9CP2AX" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/af8d7d3a-6477-4864-8d70-3c5de9a4f65c/image.png" alt="SRE and DevOps Engineer with Google Cloud" width="100"/>
-  </a>  
+  ![SRE & DevOps Badge](https://img.shields.io/badge/Certification-SRE%20%26%20DevOps-blue?style=for-the-badge&logo=google-cloud)  
 
 - 📊 **Big Data and Machine Learning Fundamentals**  
-  <a href="https://www.cloudskillsboost.google/public_profiles/7d65c009-c16c-41da-abb9-6385d88311da/badges/3137317" target="_blank">
-    <img src="https://cdn.qwiklabs.com/wXAFRlnX3VEQ84wnpX0E5k9wejc4r87FEX7zBNFUz3c%3D" alt="Big Data and Machine Learning Fundamentals" width="100"/>
-  </a>  
+  ![Big Data & ML Fundamentals Badge](https://img.shields.io/badge/Certification-Big%20Data%20%26%20MLFundamentals-blue?style=for-the-badge&logo=google-cloud)  
 
 - 🧠 **DeepLearning.AI TensorFlow Developer**  
-  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/PGZEM3769UX3" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="DeepLearning.AI TensorFlow Developer" width="100"/>
-  </a>  
+  ![TensorFlow Developer Badge](https://img.shields.io/badge/Certification-TensorFlow%20Developer-FF6F00?style=for-the-badge&logo=tensorflow)  
 
 - 🌍 **Spatial Data Science and Applications**  
-  <a href="https://www.coursera.org/account/accomplishments/certificate/ZW3KNJPRQUEK" target="_blank">
-    <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ZW3KNJPRQUEK/CERTIFICATE_LANDING_PAGE~ZW3KNJPRQUEK.jpeg" alt="Spatial Data Science and Applications" width="100"/>
-  </a>  
+  ![Spatial Data Science Badge](https://img.shields.io/badge/Certification-Spatial%20Data%20Science-blue?style=for-the-badge&logo=qgis)  
 
 - ⚡ **High-Performance Computing with Python 3.x**  
-  <a href="https://www.udemy.com/certificate/UC-819df40f-725d-4b29-a711-b56fc78e2144/" target="_blank">
-    <img src="https://img-b.udemycdn.com/course/240x135/3026012_5985_4.jpg" alt="High-Performance Computing with Python 3.x" width="100"/>
-  </a>  
+  ![HPC Python Badge](https://img.shields.io/badge/Certification-High-Perf%20Computing-Python-blue?style=for-the-badge&logo=python)  
 
----
 
 ## 💼 Professional Experience  
 
