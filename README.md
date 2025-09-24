@@ -37,32 +37,14 @@ I am a **computer engineer specialized in geospatial data, AI, and cloud solutio
 ---
 
 ## 📜 Certifications  
-
-- ☁️ **Google Cloud Digital Leader**  
-  ![Google Cloud Digital Leader Badge](https://img.shields.io/badge/Certification-GCP%20Digital%20Leader-blue?style=for-the-badge&logo=google-cloud)  
-
-- 🤖 **Google Professional Machine Learning Engineer**  
-  ![Professional ML Engineer Badge](https://img.shields.io/badge/Certification-GCP%20ML%20Engineer-blue?style=for-the-badge&logo=google-cloud)  
-
-- 🌐 **Architecting with Google Kubernetes Engine**  
-  ![GKE Architect Badge](https://img.shields.io/badge/Certification-GKE%20Architect-blue?style=for-the-badge&logo=google-cloud)  
-
-- 🛠️ **SRE and DevOps Engineer with Google Cloud**  
-  ![SRE & DevOps Badge](https://img.shields.io/badge/Certification-SRE%20%26%20DevOps-blue?style=for-the-badge&logo=google-cloud)  
-
-- 📊 **Big Data and Machine Learning Fundamentals**  
-  ![Big Data & ML Fundamentals Badge](https://img.shields.io/badge/Certification-Big%20Data%20%26%20MLFundamentals-blue?style=for-the-badge&logo=google-cloud)  
-
-- 🧠 **DeepLearning.AI TensorFlow Developer**  
-  ![TensorFlow Developer Badge](https://img.shields.io/badge/Certification-TensorFlow%20Developer-FF6F00?style=for-the-badge&logo=tensorflow)  
-
-- 🌍 **Spatial Data Science and Applications**  
-  ![Spatial Data Science Badge](https://img.shields.io/badge/Certification-Spatial%20Data%20Science-blue?style=for-the-badge&logo=qgis)  
-
-- ⚡ **High-Performance Computing with Python 3.x**  
-  ![HPC Python Badge](https://img.shields.io/badge/Certification-High-Perf%20Computing-Python-blue?style=for-the-badge&logo=python)  
-
-
+- ☁️ [Google Cloud Digital Leader](https://www.credly.com/badges/d03f948e-428f-4d34-9075-04724edd71b7/public_url)  
+- 🤖 [Google Professional Machine Learning Engineer](https://www.credly.com/badges/c770bf0b-d51a-4ae5-9f92-065fba1403fd/public_url)  
+- 🌐 [Architecting with Google Kubernetes Engine](https://www.coursera.org/account/accomplishments/specialization/certificate/UXERM42Q2VX9)  
+- 🛠️ [SRE and DevOps Engineer with Google Cloud](https://www.coursera.org/account/accomplishments/specialization/certificate/69WGKS9CP2AX)  
+- 📊 [Big Data and Machine Learning Fundamentals](https://www.cloudskillsboost.google/public_profiles/7d65c009-c16c-41da-abb9-6385d88311da/badges/3137317)  
+- 🧠 [DeepLearning.AI TensorFlow Developer](https://www.coursera.org/account/accomplishments/specialization/certificate/PGZEM3769UX3)  
+- 🌍 [Spatial Data Science and Applications](https://www.coursera.org/account/accomplishments/certificate/ZW3KNJPRQUEK)  
+- ⚡ [High-Performance Computing with Python 3.x](https://www.udemy.com/certificate/UC-819df40f-725d-4b29-a711-b56fc78e2144/)
 ## 💼 Professional Experience  
 
 - 🔬 **R&D Engineer – Forestal Arauco** (2021–Present)  
