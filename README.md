@@ -41,6 +41,7 @@ I am a **computer engineer specialized in geospatial data, AI, and cloud solutio
 ## 📜 Certifications  
 
 - ☁️ [Google Cloud Digital Leader](https://www.credly.com/badges/d03f948e-428f-4d34-9075-04724edd71b7/public_url)  
+- 🔧 [Google Associate Cloud Engineer](https://www.credly.com/badges/a232b8eb-263d-4afa-b823-d8e16469d33b/public_url)  
 - 🤖 [Google Professional Machine Learning Engineer](https://www.credly.com/badges/c770bf0b-d51a-4ae5-9f92-065fba1403fd/public_url)  
 - 🌐 [Architecting with Google Kubernetes Engine](https://www.coursera.org/account/accomplishments/specialization/certificate/UXERM42Q2VX9)  
 - 🛠️ [SRE and DevOps Engineer with Google Cloud](https://www.coursera.org/account/accomplishments/specialization/certificate/69WGKS9CP2AX)  
