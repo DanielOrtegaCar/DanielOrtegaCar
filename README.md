@@ -82,7 +82,7 @@ Excellence award from Chile's Institute of Engineers recognizing outstanding eng
 
 | Badge | Certification |
 |---|---|
-| ☁️ | [Google Cloud Digital Leader](https://www.credly.com/badges/d03f948e-428f-4d34-9075-04724edd71b7/public_url) |
+| ☁️ | [Google Cloud Digital Leader](https://www.credly.com/badges/90e8221b-736b-415d-83c6-3132b27d1223/public_url) |
 | 🔧 | [Google Associate Cloud Engineer](https://www.credly.com/badges/a232b8eb-263d-4afa-b823-d8e16469d33b/public_url) |
 | 🤖 | [Google Professional Machine Learning Engineer](https://www.credly.com/badges/c770bf0b-d51a-4ae5-9f92-065fba1403fd/public_url) |
 | 🌐 | [Architecting with Google Kubernetes Engine](https://www.coursera.org/account/accomplishments/specialization/certificate/UXERM42Q2VX9) |
